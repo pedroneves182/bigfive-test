@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/bigfive-test/:path*", "destination": "/:path*" }
+  ]
+}
